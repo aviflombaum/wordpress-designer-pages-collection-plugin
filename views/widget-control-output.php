@@ -1,0 +1,1 @@
+<?php printf( __( 'In order to configure this plugin, please visit the %s page.' ), '<a target="_blank" href="options-general.php?page=designer-pages">' . __( 'Settings' ) . '</a>' ); ?>
